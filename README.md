@@ -132,13 +132,3 @@ This creates a `dist` folder with optimized files ready to deploy.
 
 **Backend:**
 Deploy the `Backend` folder to any Node.js hosting (Render, Railway, Heroku, etc.) and set the environment variables there.
-
-## Tips
-
-- Never commit `.env` files to git—they're already in `.gitignore`
-- Keep your secrets safe and don't share them
-- If you change ports, update both `.env` files accordingly
-
----
-
-Questions or issues? Check the Backend and Frontend folders for more specific documentation.
